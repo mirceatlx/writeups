@@ -241,7 +241,8 @@ As we search around the file system we can find our next target.
 
 The root folder needs elevated permissions to be accessed.
 
-This is probably a non conventional approach but we decided to run linPEAS on it.
+This is probably a non conventional approach but we decided to run linPEAS on it. We got this idea from another challenge found in this CTF (Protect the supply). You can find our write up on this challenge [here](protectthesupply.md).
+
 To learn more about linPEAS visit here: https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS
 
 For short it's a script that checks for multiple options of doing privilige escalation on linux.
